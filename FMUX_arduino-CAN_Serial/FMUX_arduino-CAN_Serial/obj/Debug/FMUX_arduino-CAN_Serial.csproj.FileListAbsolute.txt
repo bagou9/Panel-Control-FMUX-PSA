@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\SharpDevelop Projects\FMUX_arduino-CAN_Serial\FMUX_arduino-CAN_Serial\obj\Debug\FMUX_arduino-CAN_Serial.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\SharpDevelop Projects\FMUX_arduino-CAN_Serial\FMUX_arduino-CAN_Serial\obj\Debug\FMUX_arduino_CAN_Serial.MainForm.resources
+C:\Users\admin\Documents\SharpDevelop Projects\FMUX_arduino-CAN_Serial\FMUX_arduino-CAN_Serial\obj\Debug\FMUX_arduino-CAN_Serial.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\SharpDevelop Projects\FMUX_arduino-CAN_Serial\FMUX_arduino-CAN_Serial\bin\Debug\FMUX_arduino-CAN_Serial.exe.config
+C:\Users\admin\Documents\SharpDevelop Projects\FMUX_arduino-CAN_Serial\FMUX_arduino-CAN_Serial\bin\Debug\FMUX_arduino-CAN_Serial.exe
+C:\Users\admin\Documents\SharpDevelop Projects\FMUX_arduino-CAN_Serial\FMUX_arduino-CAN_Serial\bin\Debug\FMUX_arduino-CAN_Serial.pdb
+C:\Users\admin\Documents\SharpDevelop Projects\FMUX_arduino-CAN_Serial\FMUX_arduino-CAN_Serial\obj\Debug\FMUX_arduino-CAN_Serial.exe
+C:\Users\admin\Documents\SharpDevelop Projects\FMUX_arduino-CAN_Serial\FMUX_arduino-CAN_Serial\obj\Debug\FMUX_arduino-CAN_Serial.pdb
